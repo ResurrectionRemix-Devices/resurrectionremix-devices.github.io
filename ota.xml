@@ -17,7 +17,7 @@ https://www.androidfilehost.com/?fid=24052804347758220
 </Stable>
 <Stable>
 <i9300>
-<Filename>Resurrection-Remix-LP-v5.4.7-yyyymmdd-i9300_optimized</Filename>
+<Filename>Resurrection-Remix-LP-v5.4.x-yyyymmdd-i9300_optimized</Filename>
 <DownloadUrl>
 
 </DownloadUrl>
@@ -25,10 +25,19 @@ https://www.androidfilehost.com/?fid=24052804347758220
 </Stable>
 <Stable>
 <d802>
-<Filename>Resurrection-Remix-LP-v5.4.7-yyyymmdd-d802_optimized</Filename>
+<Filename>Resurrection-Remix-LP-v5.4.x-yyyymmdd_optimized-d802</Filename>
 <DownloadUrl>
 
 </DownloadUrl>
 </d802>
+</Stable>
+</Stable>
+<Stable>
+<falcon>
+<Filename>Resurrection-Remix-LP-v5.4.x-yyyymmdd_optimized-falcon</Filename>
+<DownloadUrl>
+
+</DownloadUrl>
+</falcon>
 </Stable>
 </OTACenter>
